@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Work\TestCode\cpp\Test\service_client\main.cpp(27,19): warning C4477: 'sscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'void *'
+  service_client.vcxproj -> D:\Work\TestCode\cpp\Test\Debug\service_client.exe

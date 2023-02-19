@@ -1,0 +1,29 @@
+﻿正在安装程序集“D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 CSharpService...
+正在日志 Application 中创建 EventLog 源 CSharpService...
+正在回滚程序集“D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在将事件日志还原到源 CSharpService 的前一状态。
+在 System.Diagnostics.EventLogInstaller 安装程序的“回退”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+在安装的“回退”阶段发生异常。将忽略该异常并继续回退。但是，在完成回退后计算机可能无法完全还原到它的初始状态。
+正在安装程序集“D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+正在安装服务 CSharpService...
+已成功安装服务 CSharpService。
+正在日志 Application 中创建 EventLog 源 CSharpService...
+正在提交程序集“D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Work\TestCode\CSharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe

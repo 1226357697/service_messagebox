@@ -1,0 +1,13 @@
+﻿正在安装程序集“D:\Work\TestCode\cpp\Test\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Work\TestCode\cpp\Test\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Work\TestCode\cpp\Test\Debug\WindowsService1.exe
+正在安装服务 CSharpService...
+已成功安装服务 CSharpService。
+正在日志 Application 中创建 EventLog 源 CSharpService...
+正在提交程序集“D:\Work\TestCode\cpp\Test\Debug\WindowsService1.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Work\TestCode\cpp\Test\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Work\TestCode\cpp\Test\Debug\WindowsService1.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Work\TestCode\cpp\Test\Test\main.cpp(11,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Work\TestCode\cpp\Test\Test\main.cpp(11,10): message : consider using '%zd' in the format string
+D:\Work\TestCode\cpp\Test\Test\main.cpp(12,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Work\TestCode\cpp\Test\Test\main.cpp(12,10): message : consider using '%zd' in the format string
+  Test.vcxproj -> D:\Work\TestCode\cpp\Test\x64\Debug\Test.exe
